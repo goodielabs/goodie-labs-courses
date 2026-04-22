@@ -807,9 +807,8 @@
 // 如果不对接飞书，直接修改 COURSES 数组即可
 // ═══════════════════════════════════════════════════════
 const FEISHU_CONFIG = {
-  enabled: false,           // 改为 true 启用飞书 API
-  proxyUrl: '',             // 你的后端代理 URL，见文档说明
-  // 直接浏览器调飞书 API 会遇到跨域限制，需要一个后端中转
+  enabled: true,
+  proxyUrl: 'https://curious-trifle-d628fc.netlify.app/api/courses',
 };
 
 // ── 课程大类与子类型映射 ──────────────────────────────
