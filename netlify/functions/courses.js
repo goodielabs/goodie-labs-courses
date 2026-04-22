@@ -6,7 +6,7 @@
 // 飞书表格配置 —— 改成你自己的值
 // ═══════════════════════════════════════════════════════
 const NODE_TOKEN = 'L1CwwU41bipe10kBCvPcIretnkd'; // 你知识库表格 URL 中 /wiki/ 后面那段
-const TABLE_ID   = 'tblhUL770xpY9mCQ';            // URL 中 table= 后面那段
+const TABLE_ID   = 'tblesskxzcaRCdpj';            // 「全部课程」表的 table_id
 
 // ═══════════════════════════════════════════════════════
 // 字段名映射 —— 改成和你飞书表格列名完全一致
